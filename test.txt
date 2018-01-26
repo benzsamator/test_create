@@ -1,5 +1,3 @@
 test commit
 
 This line will be revert
-
-This line 3
