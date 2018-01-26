@@ -1,3 +1,7 @@
+<<<<<<< HEAD
 test commit
 
 This line will be revert
+=======
+test
+>>>>>>> parent of beb6459... test
