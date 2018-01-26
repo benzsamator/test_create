@@ -1,3 +1,5 @@
 test commit
 
+This line is a bug
+
 This line will be revert
